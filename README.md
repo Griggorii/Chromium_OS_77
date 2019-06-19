@@ -1,5 +1,5 @@
-# Chromium_OS_77
-chromium OS 77 testing compile OS12  based 16.04 chromium browser v77 download
+# Chromium_OS
+chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 amd64-generic
 
 Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ
 
