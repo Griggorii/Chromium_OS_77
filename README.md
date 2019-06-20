@@ -9,6 +9,10 @@ Minimus size 11 Gb Гб HDDRawCopy source bin in target flash usb
 
 Расширение Secure Shell App надо ставить в паре с Crosh Window поможет нашей дальнеишей разработке
 
+Alternative my hack run Crosh Window 
+
+Run browser official terminal chrome-extension://pnhechapfaindjhompbnflcldabbghjo/html/nassh.html
+
 
 __________________________________________________________________________________________________________________________________
 
