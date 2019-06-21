@@ -17,6 +17,7 @@ Run browser official terminal Secure Shell App 0.18 chrome-extension://pnhechapf
 
 На счет встраивания линукса в хромиум заходим в Настройки там есть пункт Linux (beta) после этого как пишут тут  https://flatpak.org/setup/Chrome%20OS/ далее по этой технологии https://github.com/Griggorii/Chromium_OS_77/blob/master/Screenshot%202019-06-21%20at%2011.41.28.png 
 
+https://www.it-world.ru/tech/admin/120048.html
 
 __________________________________________________________________________________________________________________________________
 
