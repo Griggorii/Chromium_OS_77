@@ -13,6 +13,8 @@ Alternative my hack run Crosh Window https://github.com/Griggorii/Chromium_OS_77
 
 Run browser official terminal Secure Shell App 0.18 chrome-extension://pnhechapfaindjhompbnflcldabbghjo/html/nassh.html
 
+Что бы терминал открыть в браузере ctrl+alt+t вне браузера читать ниже
+
 Как открыть Crosh Window как у меня откройте сначала Secure Shell App подождите некоторое время там появится окно и после этого открываем Crosh Window технологию открыл пару дней назад. Ну я компилировал на своей системе и менял там настроек очень много видимо они были пренесены из различных конфигов которые я настраивал пару лет.
 
 На счет встраивания линукса в хромиум заходим в Настройки там есть пункт Linux (beta) после этого как пишут тут  https://flatpak.org/setup/Chrome%20OS/ далее по этой технологии https://github.com/Griggorii/Chromium_OS_77/blob/master/Screenshot%202019-06-21%20at%2011.41.28.png 
