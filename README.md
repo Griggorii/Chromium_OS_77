@@ -9,9 +9,13 @@ Minimus size 11 Gb Гб HDDRawCopy source bin in target flash usb
 
 Расширение Secure Shell App надо ставить в паре с Crosh Window поможет нашей дальнеишей разработке
 
-Alternative my hack run Crosh Window 
+Alternative my hack run Crosh Window https://github.com/Griggorii/Chromium_OS_77/blob/master/Screenshot%202019-06-21%20at%2011.41.28.png
 
-Run browser official terminal chrome-extension://pnhechapfaindjhompbnflcldabbghjo/html/nassh.html
+Run browser official terminal Secure Shell App 0.18 chrome-extension://pnhechapfaindjhompbnflcldabbghjo/html/nassh.html
+
+Как открыть Crosh Window как у меня откройте сначала Secure Shell App подождите некоторое время там появится окно и после этого 
+
+открываем Crosh Window технологию открыл пару дней назад. Ну я компилировал на своей системе и менял там настроек очень много видимо они были пренесены из различных конфигов которые я настраивал пару лет.
 
 
 __________________________________________________________________________________________________________________________________
