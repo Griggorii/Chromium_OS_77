@@ -1,7 +1,9 @@
 # Chromium_OS_77
 chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 amd64-generic
 
-Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ
+Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ наконец то включили видео для этой OS
+
+STATE в linux как переделать https://4pda.ru/forum/index.php?showtopic=516411&view=findpost&p=86654882
 
 Minimus size 11 Gb Гб HDDRawCopy source bin in target flash usb установка производимая с помощью программы HDDRawCopy и её аналогов стирает всю флешку или диск так что имейте ввиду что перед процедурой вы вооружены этим знание и стоит найти пустую флешку либо диск. При подключению к другому оборудованию всё стирается и восстанавливается после из облачного хранения вместе с вашими расширениями для браузера , сделано это для защиты ваших данных от угона если вы флешку потеряете то в ваш акк не сможет попасть.
 
