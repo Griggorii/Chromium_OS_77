@@ -1,7 +1,7 @@
 # Chromium_OS_77
 chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 amd64-generic
 
-Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ наконец то включили видео для этой OS
+Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ наконец то включили видео для этой OS хотя бы частично на ютуб ну как бы из за фри софтварности всё равно некоторые видеокодаки может не поддерживать , но что нам мешает делать из моей системы мод кончно же ничего как и редактирование тех же имеиджев с андроидами так что постепенно  so кедеки можно занести и сделать эту ось с кучей окружении.
 
 STATE в linux как переделать https://4pda.ru/forum/index.php?showtopic=516411&view=findpost&p=86654882
 
