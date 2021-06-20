@@ -125,8 +125,6 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
         id="text" 
         class="style-scope ytd-thumbnail-overlay-time-status-renderer" 
         aria-label="5 минуты 39 секунды">   5:39
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail">
-            class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer"                                  aria-label="5 minutes, 24 seconds">       5:24
 <ytd-thumbnail-overlay-equalizer 
         class="style-scope ytd-thumbnail-overlay-now-playing-renderer">
         <svg xmlns="http://www.w3.org/2000/svg" 
