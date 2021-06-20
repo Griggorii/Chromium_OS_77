@@ -1,6 +1,7 @@
 # Chromium_OS_77
 chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 amd64-generic gui которым обтянули весь интернет
 
+<!--css-build:shady-->
 <div id="thumbnail-container" class="style-scope ytd-video-preview">
         <ytd-thumbnail hovered="false" rich-grid-thumbnail="" width="9999" class="style-scope ytd-video-preview"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=MVhZ_QZGxaQ">
   <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="9999" src="https://i.ytimg.com/vi/MVhZ_QZGxaQ/maxresdefault.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDLYVZCLygsb84jArDAXKk_8ZVhiQ"></yt-img-shadow>
