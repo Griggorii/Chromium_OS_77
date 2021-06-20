@@ -1,6 +1,30 @@
 # Chromium_OS_77
 chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 amd64-generic gui которым обтянули весь интернет
 
+First and video playback right on the main page youtube visoring cursor on video class my demo
+
+style-scope ytd-video-preview
+yt-simple-endpoint inline-block style-scope ytd-thumbnail
+style-scope ytd-thumbnail-overlay-equalizer
+  <g class="style-scope ytd-thumbnail-overlay-equalizer">
+    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
+    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
+    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
+class="style-scope ytd-thumbnail">
+        <span class="style-scope ytd-thumbnail-overlay-loading-preview-renderer
+</ytd-thumbnail-overlay-loading-preview-renderer></div>
+  <div id="mouseover-overlay" 
+        class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" 
+        class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail>
+      </div>                     
+                     
+
+
+
+
 <!--css-build:shady-->
 <div id="thumbnail-container" class="style-scope ytd-video-preview">
         <ytd-thumbnail hovered="false" rich-grid-thumbnail="" width="9999" class="style-scope ytd-video-preview"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="https://www.youtube.com/watch?v=MVhZ_QZGxaQ">
