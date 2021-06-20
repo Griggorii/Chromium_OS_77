@@ -158,6 +158,29 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
         allowfullscreen>
         </iframe>
 
+<!--css-build:shady-->
+<div id="thumbnail-container" class="style-scope ytd-video-preview">
+        <ytd-thumbnail hovered="false" rich-grid-thumbnail="" width="9999" class="style-scope ytd-video-preview"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" src="https://www.youtube.com/embed/MVhZ_QZGxaQ">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="9999" src="https://i.ytimg.com/vi/MVhZ_QZGxaQ/maxresdefault.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDLYVZCLygsb84jArDAXKk_8ZVhiQ"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="5 минуты 39 секунды">
+  5:39
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Текущее видео</span>
+<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
+  <g class="style-scope ytd-thumbnail-overlay-equalizer">
+    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
+    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
+    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
+  </g>
+</svg>
+</ytd-thumbnail-overlay-equalizer>
+</ytd-thumbnail-overlay-now-playing-renderer><ytd-thumbnail-overlay-loading-preview-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-loading-preview-renderer">Если вы переместите указатель мыши за пределы значка, предпросмотр прекратится</span>
+</ytd-thumbnail-overlay-loading-preview-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail>
+      </div>
 __________________________________________________________________________TEST________________________________________________
 
 div.ytd-video-preview { 
