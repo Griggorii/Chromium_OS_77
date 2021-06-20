@@ -94,9 +94,6 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
 Дата сборки
 вторник, 18 июня 2019 г.
 
-__________________________________________________________________________TEST________________________________________________
-
-
 <div id="thumbnail-container" 
     class="style-scope ytd-video-preview">
         <ytd-thumbnail hovered="false" 
