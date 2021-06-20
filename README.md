@@ -101,7 +101,6 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
         width="9999" 
         class="style-scope ytd-video-preview">
         <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" 
-
         aria-hidden="true" 
         tabindex="-1" 
         rel="null" 
@@ -114,7 +113,6 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
         alt="" 
         width="9999" 
         src="https://i.ytimg.com/vi/MVhZ_QZGxaQ/maxresdefault.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDLYVZCLygsb84jArDAXKk_8ZVhiQ"></yt-img-shadow>
-  
   <div id="overlays" 
         class="style-scope ytd-thumbnail">
         <ytd-thumbnail-overlay-time-status-renderer 
