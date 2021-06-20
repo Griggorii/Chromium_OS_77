@@ -92,3 +92,71 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
 
 Дата сборки
 вторник, 18 июня 2019 г.
+
+div.ytd-video-preview { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail yt-img-shadow.no-transition { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail yt-img-shadow.no-transition img.yt-img-shadow { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-time-status-renderer.ytd-thumbnail { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-time-status-renderer.ytd-thumbnail yt-icon.ytd-thumbnail-overlay-time-status-renderer { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-time-status-renderer.ytd-thumbnail span.ytd-thumbnail-overlay-time-status-renderer { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-now-playing-renderer.ytd-thumbnail { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-now-playing-renderer.ytd-thumbnail span.ytd-thumbnail-overlay-now-playing-renderer { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-now-playing-renderer.ytd-thumbnail ytd-thumbnail-overlay-equalizer.ytd-thumbnail-overlay-now-playing-renderer { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-now-playing-renderer.ytd-thumbnail ytd-thumbnail-overlay-equalizer.ytd-thumbnail-overlay-now-playing-renderer svg.ytd-thumbnail-overlay-equalizer { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-now-playing-renderer.ytd-thumbnail ytd-thumbnail-overlay-equalizer.ytd-thumbnail-overlay-now-playing-renderer svg.ytd-thumbnail-overlay-equalizer g.ytd-thumbnail-overlay-equalizer { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-now-playing-renderer.ytd-thumbnail ytd-thumbnail-overlay-equalizer.ytd-thumbnail-overlay-now-playing-renderer svg.ytd-thumbnail-overlay-equalizer g.ytd-thumbnail-overlay-equalizer rect.ytd-thumbnail-overlay-equalizer { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-loading-preview-renderer.ytd-thumbnail { 
+
+}
+
+div.ytd-video-preview ytd-thumbnail.ytd-video-preview a.ytd-thumbnail div.ytd-thumbnail ytd-thumbnail-overlay-loading-preview-renderer.ytd-thumbnail span.ytd-thumbnail-overlay-loading-preview-renderer { 
+
+}
