@@ -96,6 +96,71 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
 
 __________________________________________________________________________TEST________________________________________________
 
+<ytd-thumbnail width="210"
+    class="style-scope ytd-grid-video-renderer">
+    <a id="thumbnail"
+        class="yt-simple-endpoint inline-block style-scope ytd-thumbnail"
+
+        aria-hidden="true"
+        tabindex="-1"
+        href="/watch?v=MVhZ_QZGxaQ">
+        <yt-img-shadow class="style-scope ytd-thumbnail no-transition"
+    
+            style="background-color: transparent;"
+            loaded=""><img id="img"
+                class="style-scope yt-img-shadow"
+                src="https://i.ytimg.com/vi/MVhZ_QZGxaQ/maxresdefault.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDLYVZCLygsb84jArDAXKk_8ZVhiQ""
+        
+                width="210"></yt-img-shadow>
+        <div id="mouseover-overlay"
+            class="style-scope ytd-thumbnail"></div>
+        <div id="overlays"
+            class="style-scope ytd-thumbnail">
+            <ytd-thumbnail-overlay-time-status-renderer
+            class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer"
+            
+                    aria-label=5 \u043c\u0438\u043d\u0443\u0442\u044b 39 \u0441\u0435\u043a\u0443\u043d\u0434\u044b">
+      5:39
+    </span></ytd-thumbnail-overlay-time-status-renderer>
+                <ytd-thumbnail-overlay-toggle-button-renderer
+                role="button" tabindex="0"
+                    class="style-scope ytd-thumbnail"
+                    aria-label="Watch later">
+                    <yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer">
+                        <svg viewBox="0 0 24 24"
+                            preserveAspectRatio="xMidYMid meet"
+                    
+                            focusable="false"
+                            style="pointer-events: none; display: block; width: 100%; height: 100%;"
+                    
+                            class="style-scope yt-icon">
+                            <g class="style-scope yt-icon">
+                                <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z"
+                            
+                                    class="style-scope yt-icon"></path>
+                            </g>
+                        </svg>
+                    </yt-icon>
+                    <paper-tooltip id="tooltip"
+                        class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"
+                
+                        role="tooltip"
+                        tabindex="-1">
+                        <div id="tooltip"
+                            class="hidden style-scope paper-tooltip">
+                            Watch later
+                        </div>
+                    </svg>
+                    </paper-tooltip>
+                    </ytd-thumbnail-overlay-equalizer>
+                    </ytd-thumbnail-overlay-toggle-button-renderer>
+                    <ytd-thumbnail-overlay-loading-preview-renderer class="style-scope ytd-thumbnail">
+        </div>
+    </a>
+</ytd-thumbnail>
+
+__________________________________________________________________________TEST________________________________________________
+
 div.ytd-video-preview { 
 
 }
