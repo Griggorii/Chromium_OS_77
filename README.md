@@ -3,7 +3,7 @@ chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 
 
 <!--css-build:shady-->
 <div id="thumbnail-container" class="style-scope ytd-video-preview">
-        <ytd-thumbnail hovered="false" rich-grid-thumbnail="" width="9999" class="style-scope ytd-video-preview"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=MVhZ_QZGxaQ">
+        <ytd-thumbnail hovered="false" rich-grid-thumbnail="" width="9999" class="style-scope ytd-video-preview"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="https://www.youtube.com/watch?v=MVhZ_QZGxaQ">
   <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="9999" src="https://i.ytimg.com/vi/MVhZ_QZGxaQ/maxresdefault.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDLYVZCLygsb84jArDAXKk_8ZVhiQ"></yt-img-shadow>
   
   <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="5 минуты 39 секунды">
