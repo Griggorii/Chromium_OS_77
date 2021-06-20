@@ -148,15 +148,7 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
 </ytd-thumbnail>
       </div>
         
-<!--css-build:shady-->      
-<iframe width="560" 
-        height="315" 
-        src="https://www.youtube.com/embed/MVhZ_QZGxaQ" 
-        title="YouTube video player" 
-        frameborder="1" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+https://www.youtube.com/embed/MVhZ_QZGxaQ
 
 __________________________________________________________________________TEST________________________________________________
 
