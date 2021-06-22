@@ -121,7 +121,7 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
                              
            New griggorii patent command string flags chromium/chrome/opera/yandex/brave/vivaldi browsers replace browser chromium-browser run replace user-data-dir=$HOME/->config_new_source<-                                  06.22.2021
                              
-           Example --use-gl=glx <- replace egl -> --use-gl=egl
+           Example --use-gl=glx libGLESv2 <- replace egl -> --use-gl=egl
                              
            Example chromium disable bad lage Rasterization | Rasterization: Disabled | Vulkan: Disabled Hardware | Protected Video Decode: Unavailable
                              
