@@ -67,6 +67,8 @@ sudo ln -s /usr/lib/chromium-browser /usr/lib/chromium-browser/libs
 
 sudo cp libffmpeg.so /usr/lib/chromium-browser/libs
 
+link libs will connect any libraries, you can even modify the browser by creating another shell inside it based on its shell, thereby modifying it on the fly, which will help other developers who do not intend to deceive me, but listen on business and report to the corporation about the primacy of my build, what would I get state funding for revision
+
 __________________________________________________________________________________________________________________
 
 STATE в linux как переделать https://4pda.ru/forum/index.php?showtopic=516411&view=findpost&p=86654882 <- дожили видимо разработка такая мощная что ит сообщество начало делить и пилить чужое с такой силой что заблокировало это на уровне государства которое не хочет инвестировать в мои наработки у некоторых абонентов по этому я дам прямой путь https://drive.google.com/file/d/1Sh-Fkk7fcHg5jD8khQJn9WUa1D2L5WTT/view?usp=sharing
