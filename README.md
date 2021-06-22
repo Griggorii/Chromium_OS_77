@@ -119,7 +119,7 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
 вторник, 18 июня 2019 г.             
                              
                              
-           New griggorii patent command string flags chromium/chrome/opera/yandex/brave/vivaldi browsers replace browser chromium-browser run replace user-data-dir=$HOME/->config_new_source<-
+           New griggorii patent command string flags chromium/chrome/opera/yandex/brave/vivaldi browsers replace browser chromium-browser run replace user-data-dir=$HOME/->config_new_source<-                  06.22.2021
                              
            Example chromium disable bad lage Rasterization | Rasterization: Disabled | Vulkan: Disabled Hardware | Protected Video Decode: Unavailable
                              
