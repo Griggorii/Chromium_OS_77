@@ -1,0 +1,7 @@
+Old config https://github.com/Griggorii/chromium_brave_chrome_profile_linux
+
+Best variant fix all lag wayland and x11 platform raster fix
+
+Out-of-process Rasterization: Disabled
+
+Rasterization: Software only. Hardware acceleration disabled
