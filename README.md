@@ -214,6 +214,8 @@ Download libpepflashplayer version 32.0.0.238 and alternative version edit -ppap
 sudo cp -r libpepflashplayer.so libflashplayer.so manifest.json
                              
 View check manifest.json -> version --ppapi-flash-version=My_Version
+                             
+Tutorial video run flesh player https://github.com/Griggorii/Chromium_OS_77/blob/master/libpepflashplayer_tutorial.webm
 
 __________________________________________________________________________________________                             
                              
