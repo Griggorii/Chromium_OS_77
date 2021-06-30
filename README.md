@@ -220,6 +220,8 @@ Tutorial video run flesh player https://github.com/Griggorii/Chromium_OS_77/blob
 Double cash emulate storage ~/.cache/chromium alternative chrome://flags/#storage-access-api
                              
 Какой концепт я бы хотел видеть на основе переработки chromium os 77 и перебития её на версию выше показано в этом видео https://youtu.be/doLJ0FTRt6U кто считает что выглядит уже не плохо , а на рабочий стол для показа иконок можно завести что то типа nemo проводника и будет почти топ система.
+                             
+New setting chromium/chrome/opera/yandex/brave/vivaldi  https://github.com/Griggorii/Chromium_OS_77/tree/master/test_flags/minumum/my_stable_favorite_stable
 
 __________________________________________________________________________________________                             
                              
