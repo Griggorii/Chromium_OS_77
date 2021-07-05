@@ -223,7 +223,13 @@ Double cash emulate storage ~/.cache/chromium alternative chrome://flags/#storag
                              
 New setting chromium/chrome/opera/yandex/brave/vivaldi  https://github.com/Griggorii/Chromium_OS_77/tree/master/test_flags/minumum/my_stable_favorite_stable
 
-__________________________________________________________________________________________                             
+__________________________________________________________________________________________
+                             
+                                                  Test mobile sRGB + color-spin-gamma24
+                             
+chromium-browser --enable-pinch --use-mobile-user-agent --top-controls-show-threshold=0.5 --top-controls-hide-threshold=0.5 --use-mobile-user-agent --enable-viewport --validate-input-event-stream --enable-longpress-drag-selection --touch-selection-strategy=direction --main-frame-resizes-are-orientation-changes --disable-composited-antialiasing --enable-dom-distiller --flag-switches-begin --force-color-profile=color-spin-gamma24 --enable-features=TabSwitcherLongpressMenu,UseSkiaRenderer,VizHitTestSurfaceLayer,Vulkan --flag-switches-end --origin-trial-disabled-features=SecurePaymentConfirmation --flag-switches-begin --enable-accelerated-video-decode --enable-experimental-web-platform-features --isolated-prerender-nsp-enabled --enable-quic --enable-zero-copy --force-color-profile=srgb --load-media-router-component-extension=1 --sync-url=https://chrome-sync.sandbox.google.com/chrome-sync/alpha --enable-features=TabSwitcherLongpressMenu,UseSkiaRenderer,VizHitTestSurfaceLayer,Vulkan,ClickToCallUI,GenericSensorExtraClasses,HardwareMediaKeyHandling,InstalledAppsInCbd,IsolatePrerenders:max_srp_prefetches/15,IsolatePrerendersMustProbeOrigin,OmniboxTabSwitchSuggestions,TabHoverCardImages,V8VmFuture --flag-switches-end
+                             
+__________________________________________________________________________________________________________________________________________________________________
                              
 Driver Information                             
                              
