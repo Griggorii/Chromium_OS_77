@@ -231,6 +231,12 @@ chromium-browser --enable-pinch --use-mobile-user-agent --top-controls-show-thre
                              
 __________________________________________________________________________________________________________________________________________________________________
                              
+                                         My old standart setting minimum
+                             
+chromium-browser --enable-pinch --flag-switches-begin --enable-accelerated-video-decode --enable-experimental-web-platform-features --isolated-prerender-nsp-enabled --enable-quic --enable-zero-copy --force-color-profile=srgb --load-media-router-component-extension=1 --sync-url=https://chrome-sync.sandbox.google.com/chrome-sync/alpha --enable-features=ClickToCallUI,GenericSensorExtraClasses,GlobalMediaControlsCastStartStop,HardwareMediaKeyHandling,InstalledAppsInCbd,IsolatePrerenders:max_srp_prefetches/15,IsolatePrerendersMustProbeOrigin,OmniboxTabSwitchSuggestions,TabHoverCardImages,V8VmFuture --disable-features=Vulkan --flag-switches-end --origin-trial-disabled-features=SecurePaymentConfirmation
+                             
+__________________________________________________________________________________________________________________________________________________________________                            
+                             
 Driver Information                             
                              
 
