@@ -167,7 +167,7 @@ chromium-browser --enable-pinch --enable-features=UseOzonePlatform --ozone-platf
                              
 ________________________________________________________________________________________________________________________________________________________________
 
-            Chromium OS 77 to Chrome OS 4K-8K Easy --arc-build-properties final OS configuration patent Griggorii HD лучшее качество изображения
+            Chromium OS 77 to Chrome OS 4K-8K Easy X11 --arc-build-properties final OS configuration patent Griggorii HD лучшее качество изображения
 
 chromium-browser --enable-pinch --gpu-sandbox-failures-fatal=no --enable-logging --log-level=1 --use-cras --enable-wayland-server --enable-features=SmartDim,Crostini --system-developer-mode --login-profile=user --default-wallpaper-is-oem --aura-legacy-power-button --default-wallpaper-large=/usr/share/backgrounds/owarty-final-ubuntu.png --default-wallpaper-small=/usr/share/backgrounds/warty-final-ubuntu.png --default-wallpaper-is-oem --enable-consumer-kiosk --arc-build-properties={} --arc-availability=officially-supported --enable-arc-oobe-optin-no-skip --arc-transition-migration-required --enterprise-enrollment-initial-modulus=15 --enterprise-enrollment-modulus-limit=19 --login-manager --first-exec-after-boot --vmodule=*/search_result_ranker/*=1,*night_light*=1,*/chrome/browser/chromeos/account_manager/*=1,*/chromeos/components/account_manager/*=1,app_list_syncable_service=1,*/chromeos/power/auto_screen_brightness/*=1,*/forced_extensions/installation_tracker*=2,extension_downloader=2,existing_user_controller=2,*/ash/wm/tablet_mode/*=1,enrollment_screen_handler=1,*/browser/chromeos/login/enrollment/*=1,*/ui/ozone/*=1,*/ui/display/manager/chromeos/*=1,update_engine=1,component_updater_service=1 --enable-features=SmartDim,Crostini --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer/libpepflashplayer.so --ppapi-flash-version=32.0.0.238 --ui-compositor-memory-limit-when-visible-mb=512 --flag-switches-begin --enable-experimental-accessibility-language-detection --enable-experimental-accessibility-language-detection-dynamic --enable-experimental-web-platform-features --isolated-prerender-nsp-enabled --enable-quic --enable-zero-copy --force-color-profile=srgb --ignore-gpu-blocklist --load-media-router-component-extension=1 --new-canvas-2d-api --sync-url=https://chrome-sync.sandbox.google.com/chrome-sync/alpha --wallet-service-use-sandbox=1 --enable-features=SmartDim,Crostini,ClickToCallUI,ExperimentalFlingAnimation,GenericSensorExtraClasses,H264DecoderBufferIsCompleteFrame,HardwareMediaKeyHandling,InstalledAppsInCbd,IsolatePrerenders:max_srp_prefetches/15,IsolatePrerendersMustProbeOrigin,OmniboxTabSwitchSuggestions,TabHoverCardImages,V8VmFuture --flag-switches-end --origin-trial-disabled-features=SecurePaymentConfirmation
                              
@@ -190,7 +190,59 @@ New setting chromium/chrome/opera/yandex/brave/vivaldi  https://github.com/Grigg
                              
                              Update api vulkan disable problem -> https://youtu.be/0unKGgKv3Ts
                              
-chromium-browser --enable-pinch --gpu-sandbox-failures-fatal=no --enable-logging --log-level=1 --use-cras --enable-wayland-server --system-developer-mode --login-profile=user --default-wallpaper-is-oem --aura-legacy-power-button --default-wallpaper-large=/usr/share/backgrounds/owarty-final-ubuntu.png --default-wallpaper-small=/usr/share/backgrounds/warty-final-ubuntu.png --enable-consumer-kiosk --arc-build-properties={} --arc-availability=officially-supported --enable-arc-oobe-optin-no-skip --arc-transition-migration-required --enterprise-enrollment-initial-modulus=15 --enterprise-enrollment-modulus-limit=19 --login-manager --first-exec-after-boot --vmodule=*/search_result_ranker/*=1,*night_light*=1,*/chrome/browser/chromeos/account_manager/*=1,*/chromeos/components/account_manager/*=1,app_list_syncable_service=1,*/chromeos/power/auto_screen_brightness/*=1,*/forced_extensions/installation_tracker*=2,extension_downloader=2,existing_user_controller=2,*/ash/wm/tablet_mode/*=1,enrollment_screen_handler=1,*/browser/chromeos/login/enrollment/*=1,*/ui/ozone/*=1,*/ui/display/manager/chromeos/*=1,update_engine=1,component_updater_service=1 --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer/libpepflashplayer.so --ppapi-flash-version=32.0.0.238 --ui-compositor-memory-limit-when-visible-mb=512 --flag-switches-begin --enable-experimental-accessibility-language-detection-dynamic --ignore-gpu-blocklist --new-canvas-2d-api --wallet-service-use-sandbox=1 --origin-trial-disabled-features=SecurePaymentConfirmation --flag-switches-begin --enable-accelerated-video-decode --enable-experimental-web-platform-features --isolated-prerender-nsp-enabled --enable-quic --enable-zero-copy --force-color-profile=srgb --load-media-router-component-extension=1 --sync-url=https://chrome-sync.sandbox.google.com/chrome-sync/alpha --enable-features=SmartDim,Crostini,ClickToCallUI,ExperimentalFlingAnimation,GenericSensorExtraClasses,H264DecoderBufferIsCompleteFrame,HardwareMediaKeyHandling,InstalledAppsInCbd,IsolatePrerenders:max_srp_prefetches/15,IsolatePrerendersMustProbeOrigin,OmniboxTabSwitchSuggestions,TabHoverCardImages,V8VmFuture,GlobalMediaControlsCastStartStop --disable-features=Vulkan --flag-switches-end                              
+chromium-browser --enable-pinch --gpu-sandbox-failures-fatal=no --enable-logging --log-level=1 --use-cras --enable-wayland-server --system-developer-mode --login-profile=user --default-wallpaper-is-oem --aura-legacy-power-button --default-wallpaper-large=/usr/share/backgrounds/owarty-final-ubuntu.png --default-wallpaper-small=/usr/share/backgrounds/warty-final-ubuntu.png --enable-consumer-kiosk --arc-build-properties={} --arc-availability=officially-supported --enable-arc-oobe-optin-no-skip --arc-transition-migration-required --enterprise-enrollment-initial-modulus=15 --enterprise-enrollment-modulus-limit=19 --login-manager --first-exec-after-boot --vmodule=*/search_result_ranker/*=1,*night_light*=1,*/chrome/browser/chromeos/account_manager/*=1,*/chromeos/components/account_manager/*=1,app_list_syncable_service=1,*/chromeos/power/auto_screen_brightness/*=1,*/forced_extensions/installation_tracker*=2,extension_downloader=2,existing_user_controller=2,*/ash/wm/tablet_mode/*=1,enrollment_screen_handler=1,*/browser/chromeos/login/enrollment/*=1,*/ui/ozone/*=1,*/ui/display/manager/chromeos/*=1,update_engine=1,component_updater_service=1 --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer/libpepflashplayer.so --ppapi-flash-version=32.0.0.238 --ui-compositor-memory-limit-when-visible-mb=512 --flag-switches-begin --enable-experimental-accessibility-language-detection-dynamic --ignore-gpu-blocklist --new-canvas-2d-api --wallet-service-use-sandbox=1 --origin-trial-disabled-features=SecurePaymentConfirmation --flag-switches-begin --enable-accelerated-video-decode --enable-experimental-web-platform-features --isolated-prerender-nsp-enabled --enable-quic --enable-zero-copy --force-color-profile=srgb --load-media-router-component-extension=1 --sync-url=https://chrome-sync.sandbox.google.com/chrome-sync/alpha --enable-features=SmartDim,Crostini,ClickToCallUI,ExperimentalFlingAnimation,GenericSensorExtraClasses,H264DecoderBufferIsCompleteFrame,HardwareMediaKeyHandling,InstalledAppsInCbd,IsolatePrerenders:max_srp_prefetches/15,IsolatePrerendersMustProbeOrigin,OmniboxTabSwitchSuggestions,TabHoverCardImages,V8VmFuture,GlobalMediaControlsCastStartStop --disable-features=Vulkan --flag-switches-end
+                             
+____________________________________________________________________________________________________________________________                             
+                             
+---------------------
+// Vertex SKSL
+uniform float4 sk_RTAdjust;in float2 position;in float coverage;in float2 localCoord;out float2 vlocalCoord_Stage0;out float vcoverage_Stage0;void main() {// Primitive Processor QuadPerEdgeAAGeometryProcessor
+float2 position = position.xy;vlocalCoord_Stage0 = localCoord;vcoverage_Stage0 = coverage;sk_Position = float4(position.x , position.y, 0, 1);}
+// Fragment SKSL
+uniform sampler2D uTextureSampler_0_Stage0;
+in float2 vlocalCoord_Stage0;in float vcoverage_Stage0;out half4 sk_FragColor;
+void main() {half4 outputColor_Stage0;half4 outputCoverage_Stage0;{ // Stage 0, QuadPerEdgeAAGeometryProcessor
+outputColor_Stage0 = half4(1);float2 texCoord;texCoord = vlocalCoord_Stage0;outputColor_Stage0 = (sample(uTextureSampler_0_Stage0, texCoord) * outputColor_Stage0);float coverage = vcoverage_Stage0;outputCoverage_Stage0 = half4(half(coverage));}{ // Xfer Processor: Porter Duff
+sk_FragColor = outputColor_Stage0 * outputCoverage_Stage0;}}
+// Vertex GLSL
+#version 330
+
+uniform vec4 sk_RTAdjust;
+in vec2 position;
+in float coverage;
+in vec2 localCoord;
+noperspective out vec2 vlocalCoord_Stage0;
+noperspective out float vcoverage_Stage0;
+void main() {
+    vec2 position = position;
+    vlocalCoord_Stage0 = localCoord;
+    vcoverage_Stage0 = coverage;
+    gl_Position = vec4(position.x, position.y, 0.0, 1.0);
+    gl_Position = vec4(gl_Position.xy * sk_RTAdjust.xz + gl_Position.ww * sk_RTAdjust.yw, 0.0, gl_Position.w);
+}
+
+// Fragment GLSL
+#version 330
+
+out vec4 sk_FragColor;
+uniform sampler2D uTextureSampler_0_Stage0;
+noperspective in vec2 vlocalCoord_Stage0;
+noperspective in float vcoverage_Stage0;
+void main() {
+    vec4 outputColor_Stage0;
+    vec4 outputCoverage_Stage0;
+    {
+        outputColor_Stage0 = vec4(1.0);
+        vec2 texCoord;
+        texCoord = vlocalCoord_Stage0;
+        outputColor_Stage0 = texture(uTextureSampler_0_Stage0, texCoord);
+        float coverage = vcoverage_Stage0;
+        outputCoverage_Stage0 = vec4(coverage);
+    }
+    {
+        sk_FragColor = outputColor_Stage0 * outputCoverage_Stage0;
+    }
+}
                              
 __________________________________________________________________________________________________________________________________________________________________
                              
