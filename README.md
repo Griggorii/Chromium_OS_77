@@ -166,9 +166,9 @@ chromium-browser --enable-pinch --ozone-platform=wayland --enable-wayland-server
                              
 -----------------------------------------------------------------------------------------------------------------------
                              
- Variant 2 replace disable vulkan  --enable-features=
+ Variant 2 replace enable vulkan
                              
---enable-features=UseOzonePlatform,CrossOriginIsolated,TabGroups,SmartDim,Crostini,ClickToCallUI,ExperimentalFlingAnimation,GenericSensorExtraClasses,H264DecoderBufferIsCompleteFrame,HardwareMediaKeyHandling,InstalledAppsInCbd,IsolatePrerenders:max_srp_prefetches/15,IsolatePrerendersMustProbeOrigin,OmniboxTabSwitchSuggestions,TabHoverCardImages,V8VmFuture,GlobalMediaControlsCastStartStop --disable-features=Vulkan --flag-switches-end
+--enable-features=UseOzonePlatform,ClickToCallUI,CrossOriginIsolated,GenericSensorExtraClasses,HardwareMediaKeyHandling,InstalledAppsInCbd,IsolatePrerenders,IsolatePrerendersMustProbeOrigin,OmniboxTabSwitchSuggestions,TabGroups,TabHoverCardImages,V8VmFuture,Vulkan,IsolatePrerenders:max_srp_prefetches/15 --flag-switches-end --flag-switches-begin --flag-switches-end
                              
 ________________________________________________________________________________________________________________________________________________________________
 
