@@ -11,7 +11,7 @@ guest session run: Power manager graphic visualization chrome://power/
 
 guest session run: All parametrs chrome://chrome-urls/
 
-CTRL+ALT F1 TTY
+CTRL+ALT F3 TTY come back CTRL+ALT F1
 
 First and video playback right on the main page youtube visoring cursor on video class my demo
 
