@@ -11,6 +11,8 @@ guest session run: Power manager graphic visualization chrome://power/
 
 guest session run: All parametrs chrome://chrome-urls/
 
+CTRL+ALT F1 TTY
+
 First and video playback right on the main page youtube visoring cursor on video class my demo
 
 style-scope ytd-video-preview
