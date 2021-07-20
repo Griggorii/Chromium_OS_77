@@ -5,7 +5,7 @@ Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ effect gnome 40 copyright
 
 Screenshot CTRL+F5
 
-Zoom CTRL+Talko mouse and right + -
+Zoom CTRL+Talko mouse and ctrl right + - | varinat right +- ctrl
 
 guest session run: Power manager graphic visualization chrome://power/
 
