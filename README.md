@@ -3,6 +3,8 @@ chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 
 
 Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ effect gnome 40 copyright guest session run: Press F5 keyboard ← ↑ → ↓ press double win (super) top right corner sub menu variantes citrl alt shift search
 
+Zoom CTRL+Talko mouse and right + -
+
 First and video playback right on the main page youtube visoring cursor on video class my demo
 
 style-scope ytd-video-preview
