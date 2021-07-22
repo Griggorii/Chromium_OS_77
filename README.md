@@ -175,8 +175,7 @@ ________________________________________________________________________________
 
              Ubuntu 20.04: Mesa-Xorg cinematic rebuild https://github.com/Griggorii/Xorg_1.28-Mesa_27.0.1_Ubuntu_20.04/releases/tag/xorg%2Bmesa 
                              
-             Ubuntu 21.04: Mesa cinematic download mesa-21.0.1_vulkan.h-ubuntu-21.04-hirsute_griggorii.zip
-  https://github.com/Griggorii/ubuntu-21.04-hirsute-desktop-amd64-griggorii-zsync.iso/releases/tag/pulseaudio-14.2
+             Ubuntu 21.04: Mesa cinematic download mesa-21.0.1_vulkan.h-ubuntu-21.04-hirsute_griggorii.zip https://github.com/Griggorii/ubuntu-21.04-hirsute-desktop-amd64-griggorii-zsync.iso/releases/tag/pulseaudio-14.2
                              
       Install Chromium 87.0.4280.88 browser anti snap: https://github.com/Griggorii/chromium_brave_chrome_profile_linux/releases/tag/chromium-browser
                              
