@@ -172,6 +172,8 @@ Mozilla/5.0 (X11; CrOS x86_64 12279.0.2019) AppleWebKit/537.36 (KHTML, like Geck
 Run example linux chromium and + exe test windows source chrome.exe --gpu-sandbox-failures-fatal=no copy all flags
                              
 ______________________________________________________________________________________________________________________________________________________________
+
+             Ubuntu 20.04 Mesa-Xorg cinematic rebuild https://github.com/Griggorii/Xorg_1.28-Mesa_27.0.1_Ubuntu_20.04/releases/tag/xorg%2Bmesa                            
                              
                                    07.22.2021 : Best Cinematic film test 1080 | check chrome://gpu/
                            
