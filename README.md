@@ -17,6 +17,8 @@ CTRL+P Pause|Play fone video
 
 CTRL+O Open file
 
+CTRL+S Save file
+
 CTRL+E fast find
 
 First and video playback right on the main page youtube visoring cursor on video class my demo
