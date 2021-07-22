@@ -15,6 +15,8 @@ CTRL+ALT F2 and F3 TTY come back CTRL+ALT F1
 
 CTRL+P Pause|Play fone video
 
+CTRL+O Open file
+
 First and video playback right on the main page youtube visoring cursor on video class my demo
 
 style-scope ytd-video-preview
