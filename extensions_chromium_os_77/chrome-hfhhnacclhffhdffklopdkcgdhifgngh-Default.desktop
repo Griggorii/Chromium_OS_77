@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Камера
+Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=hfhhnacclhffhdffklopdkcgdhifgngh
+Icon=chrome-hfhhnacclhffhdffklopdkcgdhifgngh-Default
+StartupWMClass=crx_hfhhnacclhffhdffklopdkcgdhifgngh
