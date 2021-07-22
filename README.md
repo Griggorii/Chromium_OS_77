@@ -19,7 +19,7 @@ CTRL+O Open file
 
 CTRL+S Save file
 
-CTRL+E fast find
+CTRL+E | K fast find
 
 CTRL+N new tab fast paste link text CTRL+V
 
