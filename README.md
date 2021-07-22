@@ -13,7 +13,7 @@ guest session run: All parametrs chrome://chrome-urls/
 
 CTRL+ALT F2 and F3 TTY come back CTRL+ALT F1
 
-CTRL+P Pause|Play fone video
+CTRL+P Pause|Play fone tab video
 
 CTRL+O Open file
 
