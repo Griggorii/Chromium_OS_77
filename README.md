@@ -185,7 +185,7 @@ ________________________________________________________________________________
                              
                              Исследование качества графического отображения chromium/chrome/brave/opera/polemoon и другие хромиумо подобные инвестиционная помощь на dollar card VISA 4817 7601 8112 4706 send Griggorii@gmail.com    
                              
-       Local State copy to paste: https://github.com/Griggorii/Chromium_OS_77/blob/master/test_flags/minumum/my_stable_favorite_stable/Local%20State_color_good_X11
+          Local State_color_good_X11 copy to paste Local State copy to paste ~/.config/chromium/Local State: https://github.com/Griggorii/Chromium_OS_77/blob/master/test_flags/minumum/my_stable_favorite_stable/Local%20State_color_good_X11
                              
                                         Run Best Cinematic film test 1080 trailer proview
                              
