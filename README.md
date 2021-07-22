@@ -173,7 +173,10 @@ Run example linux chromium and + exe test windows source chrome.exe --gpu-sandbo
                              
 ______________________________________________________________________________________________________________________________________________________________
 
-             Ubuntu 20.04 Mesa-Xorg cinematic rebuild https://github.com/Griggorii/Xorg_1.28-Mesa_27.0.1_Ubuntu_20.04/releases/tag/xorg%2Bmesa                            
+             Ubuntu 20.04: Mesa-Xorg cinematic rebuild https://github.com/Griggorii/Xorg_1.28-Mesa_27.0.1_Ubuntu_20.04/releases/tag/xorg%2Bmesa 
+                             
+             Ubuntu 21.04: Mesa cinematic download mesa-21.0.1_vulkan.h-ubuntu-21.04-hirsute_griggorii.zip
+  https://github.com/Griggorii/ubuntu-21.04-hirsute-desktop-amd64-griggorii-zsync.iso/releases/tag/pulseaudio-14.2
                              
                                    07.22.2021 : Best Cinematic film test 1080 | check chrome://gpu/
                            
