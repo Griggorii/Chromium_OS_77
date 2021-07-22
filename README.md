@@ -21,7 +21,7 @@ CTRL+S Save file
 
 CTRL+E fast find
 
-CTRL+N new tab fast copy text CTRL+V
+CTRL+N new tab fast paste link text CTRL+V
 
 First and video playback right on the main page youtube visoring cursor on video class my demo
 
