@@ -13,7 +13,7 @@ guest session run: All parametrs chrome://chrome-urls/
 
 CTRL+ALT F2 and F3 TTY come back CTRL+ALT F1
 
-CTRL+P Pause fpne video
+CTRL+P Pause|Play fone video
 
 First and video playback right on the main page youtube visoring cursor on video class my demo
 
