@@ -176,7 +176,7 @@ Icon=chromium-browser
 Categories=Network;WebBrowser;
 MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;
 StartupNotify=true
-Actions=NewWindow;Incognito;TempProfile;Wayland_Griggorii_setting;X11_Griggorii_setting;Wayland_no_sandbox_Griggorii_setting;X11_no_sandbox_Griggorii_setting;
+Actions=NewWindow;Incognito;TempProfile;Cinematic_HD_X11_Griggorii_setting;
 X-AppInstall-Package=chromium-browser
 
 [Desktop Action NewWindow]
