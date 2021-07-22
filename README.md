@@ -178,6 +178,8 @@ ________________________________________________________________________________
              Ubuntu 21.04: Mesa cinematic download mesa-21.0.1_vulkan.h-ubuntu-21.04-hirsute_griggorii.zip
   https://github.com/Griggorii/ubuntu-21.04-hirsute-desktop-amd64-griggorii-zsync.iso/releases/tag/pulseaudio-14.2
                              
+      Install Chromium 87.0.4280.88 browser anti snap: https://github.com/Griggorii/chromium_brave_chrome_profile_linux/releases/tag/chromium-browser
+                             
                                    07.22.2021 : Best Cinematic film test 1080 | check chrome://gpu/
                            
                              
