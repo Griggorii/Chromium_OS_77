@@ -173,7 +173,7 @@ Run example linux chromium and + exe test windows source chrome.exe --gpu-sandbo
                              
 # ___________________________________________________
 
-#                                 Griggorii покажет лучший цветовой профиль голливуду и росс кино                          
+#                                 Griggorii покажет лучший цифровой и цветовой профиль голливуду и росс кино                          
                              
              Ubuntu 20.04: Mesa-Xorg cinematic rebuild https://github.com/Griggorii/Xorg_1.28-Mesa_27.0.1_Ubuntu_20.04/releases/tag/xorg%2Bmesa 
                              
@@ -202,7 +202,7 @@ chromium-browser --enable-longpress-drag-selection --touch-selection-strategy=di
                             
 # ___________________________________________________
 
-#                                Griggorii покажет лучший цветовой профиль 2.0 chromium голливуду и росс кино , билдерам браузеров и другим                           
+#                                Griggorii покажет лучший цифровой и цветовой профиль 2.0 chromium голливуду и росс кино , билдерам браузеров и другим                           
                              
              Ubuntu 20.04: Mesa-Xorg cinematic rebuild https://github.com/Griggorii/Xorg_1.28-Mesa_27.0.1_Ubuntu_20.04/releases/tag/xorg%2Bmesa 
                              
@@ -215,7 +215,7 @@ chromium-browser --enable-longpress-drag-selection --touch-selection-strategy=di
                              
                              Исследование качества графического отображения chromium/chrome/brave/opera/polemoon и другие хромиумо подобные инвестиционная помощь на dollar card VISA 4817 7601 8112 4706 send Griggorii@gmail.com    
                              
-          Local State_color_good_X11 copy to paste Local State copy to paste ~/.config/chromium/Local State: https://github.com/Griggorii/Chromium_OS_77/blob/master/test_flags/minumum/my_stable_favorite_stable/Local%20State_color_good_X11
+          Local State copy to paste Local State copy to paste ~/.config/chromium/Local State: https://github.com/Griggorii/Chromium_OS_77/blob/master/test_flags/white_stable_ui/Local%20State
                              
                                         Run Best Cinematic film test 1080 trailer proview
                              
