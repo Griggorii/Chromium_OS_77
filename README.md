@@ -3,7 +3,7 @@ chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 
 
 Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ effect gnome 40 copyright guest session run: Press F5 keyboard ← ↑ → ↓ press double win (super) top right corner sub menu variantes citrl alt shift search
 
-Причина не входа в аккуант банальна и скоро мировое сообщество будет разбираться https://www.vedomosti.ru/business/news/2020/08/13/836602-spch-google-otkazalas-priznat-rossiiskuyu-dochku-svoim-predstavitelstvom
+Причина не входа в аккуант банальна и скоро мировое сообщество будет разбираться https://www.vedomosti.ru/business/news/2020/08/13/836602-spch-google-otkazalas-priznat-rossiiskuyu-dochku-svoim-predstavitelstvom , для стран не вошедших в ит сговор у меня до сих пор сохранен образ операционной системы linux на которой я собрал данный chromium os 77 раз он так сильно заинтересовал ООО "Гугл" который хочет пользоваться этими технологиями и созданными объекетами от родительских смежных объектов.
 
 Screenshot CTRL+F5
 
