@@ -3,6 +3,8 @@ chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 
 
 Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ effect gnome 40 copyright guest session run: Press F5 keyboard ← ↑ → ↓ press double win (super) top right corner sub menu variantes citrl alt shift search
 
+Причина не входа в аккуант банальна и скоро мировое сообщество будет разбираться https://www.vedomosti.ru/business/news/2020/08/13/836602-spch-google-otkazalas-priznat-rossiiskuyu-dochku-svoim-predstavitelstvom
+
 Screenshot CTRL+F5
 
 Zoom CTRL+Talko mouse and ctrl right + - | varinat right +- ctrl
