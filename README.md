@@ -95,7 +95,7 @@ link libs will connect any libraries, you can even modify the browser by creatin
 
 __________________________________________________________________________________________________________________
 
-STATE в linux как переделать https://4pda.ru/forum/index.php?showtopic=516411&view=findpost&p=86654882 <- дожили видимо разработка такая мощная что ит сообщество начало делить и пилить чужое с такой силой что заблокировало это на уровне государства которое не хочет инвестировать в мои наработки у некоторых абонентов по этому я дам прямой путь https://drive.google.com/file/d/1Sh-Fkk7fcHg5jD8khQJn9WUa1D2L5WTT/view?usp=sharing
+STATE в linux как переделать https://4pda.ru/forum/index.php?showtopic=516411&view=findpost&p=86654882 <- дожили видимо разработка такая мощная что ит сообщество начало делить и пилить чужое с такой силой что заблокировало это на уровне государства которое не хочет инвестировать в мои наработки у некоторых абонентов по этому я дам прямой путь https://github.com/Griggorii/Chromium_OS_77/blob/master/Chromium_OS_77_tutorial_fix_itself_please%20wait.flv
 
 Настройки переводчика chrome-extension://aapbdbdomjkkjkaonfhkkikfgjllcleb/options.html
 
