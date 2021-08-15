@@ -28,7 +28,9 @@ chromium-browser --disable-remote-fonts --in-process-gpu --enable-features=Netwo
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                            07.23.2021 : Best Cinematic film test 1080 + new functions reading mode adaptive site book| check chrome://gpu/
+                    07.23.2021 : Best Cinematic film test 1080 + new functions reading mode adaptive site book| check chrome://gpu/
+                    
+                                                   System Profile not Default cache
                            
                              
                              Исследование качества графического отображения chromium/chrome/brave/opera/polemoon и другие хромиумо подобные инвестиционная помощь на dollar card VISA 4817 7601 8112 4706 send Griggorii@gmail.com    
