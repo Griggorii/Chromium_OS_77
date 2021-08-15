@@ -28,7 +28,7 @@ chromium-browser --disable-remote-fonts --in-process-gpu --enable-features=Netwo
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                   07.23.2021 : Best Cinematic film test 1080 | check chrome://gpu/
+                            07.23.2021 : Best Cinematic film test 1080 + new functions reading mode| check chrome://gpu/
                            
                              
                              Исследование качества графического отображения chromium/chrome/brave/opera/polemoon и другие хромиумо подобные инвестиционная помощь на dollar card VISA 4817 7601 8112 4706 send Griggorii@gmail.com    
