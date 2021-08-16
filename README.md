@@ -156,3 +156,6 @@ absolute
 offsetytd-video-preview.style-scope.ytd-rich-grid-renderer
 z-index
 auto
+
+#thumbnail-container:hover:active:focus:focus-visible:focus-within:visited:target {
+}
