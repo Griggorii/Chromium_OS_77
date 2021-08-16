@@ -111,3 +111,48 @@ ________________________________________________________________________________
                07.16.2021 Chromium OS 77 to Chrome OS 4K-8K Easy X11 V3 --arc-build-properties final OS configuration patent Griggorii sandbox fix
                              
 chromium-browser --enable-longpress-drag-selection --touch-selection-strategy=direction --enable-pinch --use-mobile-user-agent --enable-logging --log-level=1 --use-cras --system-developer-mode --login-profile=user --default-wallpaper-large=/usr/share/backgrounds/owarty-final-ubuntu.png --default-wallpaper-small=/usr/share/backgrounds/warty-final-ubuntu.png --default-wallpaper-is-oem --enable-consumer-kiosk --arc-build-properties={} --arc-availability=officially-supported --enable-arc-oobe-optin-no-skip --arc-transition-migration-required --enterprise-enrollment-initial-modulus=15 --enterprise-enrollment-modulus-limit=19 --login-manager --first-exec-after-boot --vmodule=/search_result_ranker/=1,night_light=1,/chrome/browser/chromeos/account_manager/=1,/chromeos/components/account_manager/=1,app_list_syncable_service=1,/chromeos/power/auto_screen_brightness/=1,/forced_extensions/installation_tracker=2,extension_downloader=2,existing_user_controller=2,/ash/wm/tablet_mode/=1,enrollment_screen_handler=1,/browser/chromeos/login/enrollment/=1,/ui/ozone/=1,/ui/display/manager/chromeos/=1,update_engine=1,component_updater_service=1 --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer/libpepflashplayer.so --ppapi-flash-version=32.0.0.238 --ui-compositor-memory-limit-when-visible-mb=512 --enable-experimental-accessibility-language-detection --enable-experimental-accessibility-language-detection-dynamic --enable-top-controls-position-calculation --top-controls-height=56.0 --top-controls-show-threshold=0.5 --top-controls-hide-threshold=0.5 --enable-high-end-ui-undo --enable-begin-frame-scheduling --enable-overlay-fullscreen-video --enable-overlay-scrollbar --enable-overscroll-notifications --validate-input-event-stream --in-process-gpu --disable-gpu-shader-disk-cache --enable-viewport-meta --main-frame-resizes-are-orientation-changes --disable-composited-antialiasing --ui-prioritize-in-gpu-process --profiler-timing=0 --prerender=auto --prerender-from-omnibox=enabled --disable-sync-types=Favicon --enable-dom-distiller --enable-delegated-renderer --new-profile-management --enable-password-link --enable-spdy4 --enable-suggestions-service --ignore-gpu-blacklist --enable-impl-side-painting --disable-gpu-watchdog --supports-dual-gpus=false --gpu-driver-bug-workarounds=1,8,39,46,48 --gpu-vendor-id=0x0000 --gpu-device-id=0x0000 --gpu-driver-vendor --gpu-driver-version=0 --enable-speech-recognition --enable-instant-extended-api --flag-switches-begin --enable-accelerated-video-decode --enable-experimental-web-platform-features --isolated-prerender-nsp-enabled --enable-quic --enable-zero-copy --force-color-profile=srgb --load-media-router-component-extension=1 --sync-url=https://chrome-sync.sandbox.google.com/chrome-sync/alpha --enable-features=ClickToCallUI,GenericSensorExtraClasses,GlobalMediaControlsCastStartStop,HardwareMediaKeyHandling,InstalledAppsInCbd,IsolatePrerenders:max_srp_prefetches/15,IsolatePrerendersMustProbeOrigin,OmniboxTabSwitchSuggestions,TabHoverCardImages,V8VmFuture,Vulkan --flag-switches-end --origin-trial-disabled-features=SecurePaymentConfirmation --gpu-preferences=OAAAAAAAAAAoACBQAAAAAAAAAAAAAAAAAABgAAAAAAAYAAAAAAAAAAEAAAACAAAAAAAAAAAAAAAIAAAAAAAAAA==
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                           Test griggorii patent page structure
+                                           
+ html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-browse.style-scope.ytd-page-manager ytd-two-column-browse-results-renderer.style-scope.ytd-browse.grid.grid-disabled div#primary.style-scope.ytd-two-column-browse-results-renderer ytd-rich-grid-renderer.style-scope.ytd-two-column-browse-results-renderer ytd-video-preview.style-scope.ytd-rich-grid-renderer div#video-preview-container.style-scope.ytd-video-preview div#media-container.style-scope.ytd-video-preview a#media-container-link.yt-simple-endpoint.style-scope.ytd-video-preview div#thumbnail-container.style-scope.ytd-video-preview
+
+<div id="thumbnail-container" class="style-scope ytd-video-preview">
+        <ytd-thumbnail hovered="false" rich-grid-thumbnail="" width="9999" class="style-scope ytd-video-preview"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=XAHwcUS_R6A">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/MVhZ_QZGxaQ/maxresdefault.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDLYVZCLygsb84jArDAXKk_8ZVhiQ" width="9999"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="5 минуты 39 секунды">
+  6:17
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Текущее видео</span>
+<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
+  <g class="style-scope ytd-thumbnail-overlay-equalizer">
+    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
+    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
+    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
+  </g>
+</svg>
+</ytd-thumbnail-overlay-equalizer>
+</ytd-thumbnail-overlay-now-playing-renderer><ytd-thumbnail-overlay-loading-preview-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-loading-preview-renderer">Если вы переместите указатель мыши за пределы значка, предпросмотр прекратится</span>
+</ytd-thumbnail-overlay-loading-preview-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail>
+      </div>
+      
+      
+      
+box-sizing
+content-box
+display
+block
+float
+none
+line-height
+normal
+position
+absolute
+offsetytd-video-preview.style-scope.ytd-rich-grid-renderer
+z-index
+auto
