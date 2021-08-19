@@ -5,6 +5,8 @@ Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ effect gnome 40 copyright
 
 Причина не входа в аккуант банальна и скоро мировое сообщество будет разбираться https://www.vedomosti.ru/business/news/2020/08/13/836602-spch-google-otkazalas-priznat-rossiiskuyu-dochku-svoim-predstavitelstvom , для стран не вошедших в ит сговор у меня до сих пор сохранен образ операционной системы linux на которой я собрал данный chromium os 77 раз он так сильно заинтересовал ООО "Гугл" который хочет пользоваться этими технологиями и созданными объектами от родительских смежных объектов.
 
+Launching the graphical editor https://youtu.be/a2L-_MnGGDA?t=327
+
 Screenshot CTRL+F5
 
 Zoom CTRL+Talko mouse and ctrl right + - | varinat right +- ctrl
