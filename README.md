@@ -162,3 +162,11 @@ auto
 
 #thumbnail-container:hover:active:focus:focus-visible:focus-within:visited:target {
 }
+
+Example analytics and analysis online traffic browser
+
+lsof | grep TCP
+
+lsof | grep UDP
+
+lsof | grep IP
