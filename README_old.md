@@ -29,7 +29,7 @@ CTRL+N new tab fast paste link text CTRL+V | CTRL+F4 close window
 
 CTRL+T - черная строка поиска широкий видео проигрыватель
 
-CTRL+I - mini player | мини видео проигрыватель
+I - youtube mini player | youtube мини видео проигрыватель
 
 CTRL+R - update page in window | обновление страницы внутри окна
 
