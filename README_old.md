@@ -27,7 +27,7 @@ CTRL+E | K fast find | поиск по сайту
 
 CTRL+N new tab fast paste link text CTRL+V | CTRL+F4 close window
 
-CTRL+T - черная строка поиска широкий видео проигрыватель
+T - youtube wide player | черная строка поиска широкий видео проигрыватель
 
 I - youtube mini player | youtube мини видео проигрыватель
 
