@@ -21,11 +21,19 @@ CTRL+P Pause|Play fone tab video
 
 CTRL+O Open file
 
-CTRL+S Save file
+CTRL+S Save file | сохранение страницы
 
-CTRL+E | K fast find
+CTRL+E | K fast find | поиск по сайту
 
 CTRL+N new tab fast paste link text CTRL+V | CTRL+F4 close window
+
+CTRL+T - черная строка поиска широкий видео проигрыватель
+
+CTRL+I - mini player | мини видео проигрыватель
+
+CTRL+R - update page in window | обновление страницы внутри окна
+
+CTRL+W - close page in tab | закрытие страницы в открытом табе
 
 First and video playback right on the main page youtube visoring cursor on video class my demo
 
