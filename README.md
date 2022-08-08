@@ -125,7 +125,15 @@ chromium-browser --enable-longpress-drag-selection --touch-selection-strategy=di
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                           Test griggorii patent page structure
+                                           Test griggorii patent page structure youtube api my prop license edit
+                                           
+08.08.2022 New button form youtube
+
+<a class="yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading " href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dru%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253Dlinux%2526sp%253DEgIIAQ%2525253D%2525253D&amp;hl=ru&amp;ec=65620" target="" force-new-state="true" style=""><div class="yt-spec-button-shape-next__icon"></div><div class="cbox"></div><yt-touch-feedback-shape style="border-radius: inherit;"></yt-touch-feedback-shape></a>
+
+<a class="yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--brand yt-spec-button-shape-next--size-m " href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dru%26next%3D%252Fresults%253Fsearch_query%253Dgriggorii%26continue_action%3DQUFFLUhqbHJfUEFKTlBnWmRfMDRZMTdnM1RmS0JEYVJqUXxBQ3Jtc0ttUVAxRlFHeGhqMER0cTEtRzFScWFMdWY0NEdvdTY2TW5qZXA2UG84aGJKcXJwMTdsN0N5RV9KUXZaeFVxVmt5Q1VTNlVkbDBWekV5TnM0ajE5RzBZNG4zQkJ1Vmo4eHdCMW5uMkZBN2FDejlUOE5iMjROMjRzWXJ0M2V5VWJxcVRtZjEtSTN4UmpTLXUxeHRuR05wbGJnaEhWOEVzc3ZEcDk4ck5maURPTm53ZWh3RTZWR1NFOTRXelB5bFVlVXNxRzVpRjNMREg1QXhXaDB2c1N3bWkxVFZQYVZB&amp;hl=ru" target="" force-new-state="true" style=""><div class="cbox"><span class="yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap" role="text">Подписаться</span></div><yt-touch-feedback-shape style="border-radius: inherit;"></yt-touch-feedback-shape></a>
+
+__________________________________________________________________________________________________________________________________________________                                          
                                            
 doom: html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-browse.style-scope.ytd-page-manager ytd-two-column-browse-results-renderer.style-scope.ytd-browse.grid.grid-disabled div#primary.style-scope.ytd-two-column-browse-results-renderer ytd-rich-grid-renderer.style-scope.ytd-two-column-browse-results-renderer ytd-video-preview.style-scope.ytd-rich-grid-renderer div#video-preview-container.style-scope.ytd-video-preview div#media-container.style-scope.ytd-video-preview a#media-container-link.yt-simple-endpoint.style-scope.ytd-video-preview div#thumbnail-container.style-scope.ytd-video-preview
 
