@@ -129,11 +129,7 @@ chromium-browser --enable-longpress-drag-selection --touch-selection-strategy=di
                                            
 08.08.2022 New button form youtube https://youtu.be/bB7KLiyhKuA?t=21
 
-<ytd-button-renderer class="style-scope ytd-reload-page-button-renderer" button-renderer=""><yt-button-shape><button class="yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m "><div class="cbox"><span class="yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap" role="text">Griggorii</span></div><yt-touch-feedback-shape style="border-radius: inherit;"><div class="yt-spec-touch-feedback-shape"><div class="yt-spec-touch-feedback-shape__stroke"></div><div class="yt-spec-touch-feedback-shape__fill"></div></div></yt-touch-feedback-shape></button></yt-button-shape></ytd-button-renderer>
-
-
-<ytd-button-renderer class="style-scope ytd-reload-page-button-renderer" button-renderer=""><yt-button-shape></yt-button-shape></ytd-button-renderer>
-<button class="yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m " style=""><div class="cbox"><span class="yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap" role="text">Griggorii</span></div></button>
+<yt-button-shape><button class="yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m " style=""><div class="cbox"><span class="yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap" role="text">Griggorii</span></div><yt-touch-feedback-shape style="border-radius: inherit;"><div class="yt-spec-touch-feedback-shape"><div class="yt-spec-touch-feedback-shape__fill" style=""></div></div></yt-touch-feedback-shape></button></yt-button-shape>
 
 
 __________________________________________________________________________________________________________________________________________________                                          
