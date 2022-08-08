@@ -127,7 +127,7 @@ chromium-browser --enable-longpress-drag-selection --touch-selection-strategy=di
 
                                            Test griggorii patent page structure youtube api my prop license edit
                                            
-08.08.2022 New button form youtube
+08.08.2022 New button form youtube https://youtu.be/bB7KLiyhKuA?t=21
 
  Настройки
 </div>
