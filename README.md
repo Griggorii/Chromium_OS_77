@@ -129,9 +129,50 @@ chromium-browser --enable-longpress-drag-selection --touch-selection-strategy=di
                                            
 08.08.2022 New button form youtube
 
-<a class="yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading " href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dru%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253Dlinux%2526sp%253DEgIIAQ%2525253D%2525253D&amp;hl=ru&amp;ec=65620" target="" force-new-state="true" style=""><div class="yt-spec-button-shape-next__icon"></div><div class="cbox"></div><yt-touch-feedback-shape style="border-radius: inherit;"></yt-touch-feedback-shape></a>
+ Настройки
+</div>
+</tp-yt-paper-tooltip></a></div>
+</ytd-topbar-menu-button-renderer><ytd-button-renderer class="style-scope ytd-masthead" button-renderer=""><yt-button-shape><a class="yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading " href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dru%26next%3D%252Fc%252F%2525D0%252593%2525D1%252580%2525D0%2525B8%2525D0%2525B3%2525D0%2525BE%2525D1%252580%2525D0%2525B8%2525D0%2525B9%2525D0%2525AF%2525D0%2525BA%2525D0%2525BE%2525D0%2525B2%2525D0%2525B5%2525D0%2525BD%2525D0%2525BA%2525D0%2525BE&amp;hl=ru&amp;ec=65620" target="" force-new-state="true" style=""><div class="yt-spec-button-shape-next__icon"><yt-icon style="width: 24px; height: 24px;"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,2C6.48,2,2,6.48,2,12c0,5.52,4.48,10,10,10s10-4.48,10-10C22,6.48,17.52,2,12,2z M12,3c4.96,0,9,4.04,9,9 c0,1.42-0.34,2.76-0.93,3.96c-1.53-1.72-3.98-2.89-7.38-3.03C14.57,12.6,16,10.97,16,9c0-2.21-1.79-4-4-4C9.79,5,8,6.79,8,9 c0,1.97,1.43,3.6,3.31,3.93c-3.4,0.14-5.85,1.31-7.38,3.03C3.34,14.76,3,13.42,3,12C3,7.04,7.04,3,12,3z M9,9c0-1.65,1.35-3,3-3 s3,1.35,3,3c0,1.65-1.35,3-3,3S9,10.65,9,9z M12,21c-3.16,0-5.94-1.64-7.55-4.12C6.01,14.93,8.61,13.9,12,13.9 c3.39,0,5.99,1.03,7.55,2.98C17.94,19.36,15.16,21,12,21z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></div><div class="cbox"><span class="yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap" role="text">Войти</span></div><yt-touch-feedback-shape style="border-radius: inherit;"><div class="yt-spec-touch-feedback-shape"><div class="yt-spec-touch-feedback-shape__stroke" style=""></div><div class="yt-spec-touch-feedback-shape__fill" style=""></div></div></yt-touch-feedback-shape></a></yt-button-shape></ytd-button-renderer></div>
+  </div>
+</div>
+</ytd-masthead>
+  </div>
+  <tp-yt-app-drawer id="guide" align="start" role="navigation" class="style-scope ytd-app" style="transition-duration: 0ms; touch-action: pan-y;" position="left" swipe-open="" opened="" persistent=""><!--css-build:shady--><div id="scrim" class="style-scope tp-yt-app-drawer" style="transition-duration: 0ms;"></div>
 
-<a class="yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--brand yt-spec-button-shape-next--size-m " href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dru%26next%3D%252Fresults%253Fsearch_query%253Dgriggorii%26continue_action%3DQUFFLUhqbHJfUEFKTlBnWmRfMDRZMTdnM1RmS0JEYVJqUXxBQ3Jtc0ttUVAxRlFHeGhqMER0cTEtRzFScWFMdWY0NEdvdTY2TW5qZXA2UG84aGJKcXJwMTdsN0N5RV9KUXZaeFVxVmt5Q1VTNlVkbDBWekV5TnM0ajE5RzBZNG4zQkJ1Vmo4eHdCMW5uMkZBN2FDejlUOE5iMjROMjRzWXJ0M2V5VWJxcVRtZjEtSTN4UmpTLXUxeHRuR05wbGJnaEhWOEVzc3ZEcDk4ck5maURPTm53ZWh3RTZWR1NFOTRXelB5bFVlVXNxRzVpRjNMREg1QXhXaDB2c1N3bWkxVFZQYVZB&amp;hl=ru" target="" force-new-state="true" style=""><div class="cbox"><span class="yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap" role="text">Подписаться</span></div><yt-touch-feedback-shape style="border-radius: inherit;"></yt-touch-feedback-shape></a>
+    Griggorii
+  
+</div>
+</tp-yt-paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name><div id="metadata" class="style-scope ytd-channel-renderer"><span id="subscribers" class="style-scope ytd-channel-renderer">243 подписчика</span><span id="dot" class="style-scope ytd-channel-renderer">•</span><span id="video-count" class="style-scope ytd-channel-renderer">496 видео</span></div><yt-formatted-string id="description" class="style-scope ytd-channel-renderer">Developer linux 2015-2021 year https://www.patreon.com/user?u=26636483&amp;fan_landing=true Youtube it new api engine 2021&nbsp;...</yt-formatted-string><ytd-badge-supported-renderer id="badges" class="style-scope ytd-channel-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer></div><div id="navigation-icon" class="style-scope ytd-channel-renderer" hidden=""><yt-icon class="style-scope ytd-channel-renderer" disable-upgrade=""></yt-icon></div></a><div id="subscribe-button" class="style-scope ytd-channel-renderer"><ytd-button-renderer class="style-scope ytd-channel-renderer" button-renderer=""><yt-button-shape><a class="yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--brand yt-spec-button-shape-next--size-m " href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dru%26next%3D%252Fresults%253Fsearch_query%253Dgriggorii%26continue_action%3DQUFFLUhqbFAyb293NmZQaGM3UlFKX3IyUXBNSXlkbmpLZ3xBQ3Jtc0tsR082WExEaHZPZVYwZUxtZy1UWE9mZDBRMjg5aW1ud0NqWG5LeGlrOHU1cW01YXFBZ1BQUnlEWnZlRDY5cEd5NWMwTXhKX2VmcW1WdlhkdGVCcS1NUWZrMFU5WkMyWE9tS2RNOXJkLWM5TXA3X0ZQRFJCSmh0eXFNTWJtMzRzQUxoX2c5elVjYWtvVHA3M3RxdWJYdHR2NVluS2pfTUN1MGhRQ0tQdjRLTS01XzVXTThlU3luYnd4RjYweTlISGFET0tpT05wLW41Y2JxWmxYWUhkYWptcTI5NHln&amp;hl=ru" target="" force-new-state="true" style=""><div class="cbox"><span class="yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap" role="text">Подписаться</span></div><yt-touch-feedback-shape style="border-radius: inherit;"><div class="yt-spec-touch-feedback-shape"><div class="yt-spec-touch-feedback-shape__stroke" style=""></div><div class="yt-spec-touch-feedback-shape__fill" style=""></div></div></yt-touch-feedback-shape></a></yt-button-shape></ytd-button-renderer></div><div id="purchase-button" class="style-scope ytd-channel-renderer" hidden=""></div><div id="channel-memberships-button" class="style-scope ytd-channel-renderer" hidden=""></div></div></div></ytd-channel-renderer><ytd-shelf-renderer class="style-scope ytd-item-section-renderer" thumbnail-style=""><!--css-build:shady--><div id="dismissible" class="style-scope ytd-shelf-renderer">
+  <div class="grid-subheader style-scope ytd-shelf-renderer">
+    <div id="title-container" class="style-scope ytd-shelf-renderer">
+      <h2 class="style-scope ytd-shelf-renderer">
+        
+          <yt-icon id="icon" class="style-scope ytd-shelf-renderer" disable-upgrade="" hidden="">
+          </yt-icon>
+          <span id="title" class="style-scope ytd-shelf-renderer">Новые видео на канале Griggorii</span>
+        <dom-if class="style-scope ytd-shelf-renderer"><template></template></dom-if>
+        <dom-if class="style-scope ytd-shelf-renderer"><template></template></dom-if>
+        <ytd-badge-supported-renderer id="featured-badge" class="style-scope ytd-shelf-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+        <yt-formatted-string id="title-annotation" class="style-scope ytd-shelf-renderer"><!--css-build:shady--></yt-formatted-string>
+        <div id="play-button" class="style-scope ytd-shelf-renderer"></div>
+        <div id="sort-filter" class="style-scope ytd-shelf-renderer"></div>
+      </h2>
+      <div id="spacer" class="style-scope ytd-shelf-renderer"></div>
+      <div id="subscribe-button" class="style-scope ytd-shelf-renderer"></div>
+      <div id="menu" class="style-scope ytd-shelf-renderer"></div>
+    </div>
+    <yt-formatted-string id="subtitle" class="can-be-empty style-scope ytd-shelf-renderer"><!--css-build:shady--></yt-formatted-string>
+  </div>
+  <div id="contents" class="style-scope ytd-shelf-renderer"><ytd-vertical-list-renderer class="style-scope ytd-shelf-renderer" modern-buttons=""><!--css-build:shady--><div id="items" class="style-scope ytd-vertical-list-renderer"><ytd-video-renderer class="style-scope ytd-vertical-list-renderer" bigger-thumbs-style="DEFAULT" lockup="true" is-search="" inline-title-icon=""><!--css-build:shady--><div id="dismissible" class="style-scope ytd-video-renderer">
+  <ytd-thumbnail use-hovered-property="" class="style-scope ytd-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="https://www.youtube.com/watch?v=ZoEGQ75zXI0">
+  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail" disable-upgrade="" hidden="">
+  </yt-image>
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" draggable="false" class="style-scope yt-img-shadow" alt="" width="360" src="./Griggorii - YouTube_files/hqdefault.jpg"></yt-img-shadow>
 
 __________________________________________________________________________________________________________________________________________________                                          
                                            
