@@ -19,9 +19,13 @@ Chromium OS77 download information: https://github.com/Griggorii/Chromium_OS_77/
                                08.13.2021 : Best Cinematic film test 1080 | check chrome://gpu/
                        
                          
-                         Исследование качества графического отображения chromium/chrome/brave/opera/polemoon и другие хромиумо подобные инвестиционная помощь на dollar card VISA 4817 7601 8112 4706 send Griggorii@gmail.com    
+                   Исследование качества графического отображения chromium/chrome/brave/opera/polemoon и другие хромиумо подобные инвестиционная помощь может отправляться на Griggorii@gmail.com .28.08.2022 Подводим итоги исследовании что всё зависит от определенной версии mesa и собранной определенным компилятором именно на ubuntu 20.04 это должен быть gcc-9.30 и линковка на данный момент лучший вариант llvm-12 , а точнее его библиотеку libLLVM-12.so.1 и символический dev линк на эту библиотеку libLLVM-12.so . Самое интересное если слинковать с libllvm-10 то скорость и производительность полученной mesa будет значительно хуже. 
                          
       Local State_color_good_X11 copy to paste Local State copy to paste ~/.config/chromium/Local State: https://github.com/Griggorii/Chromium_OS_77/blob/master/test_flags/minumum/my_stable_favorite_stable/Local%20State_color_good_X11
+      
+______________________________________________________________________________________________________________________________________________________
+
+https://github.com/Griggorii/drirc_acceleration_idea
       
       
        28.08.2022 update найдено ускорение для всех браузеров достаточно добавить флаг vblank_mode=0 <name_browser_tearing>
