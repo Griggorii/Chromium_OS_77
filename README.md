@@ -1,6 +1,6 @@
 # Chromium_OS_77
 
-glUseProgram , glUniform1iv , glUniform4fv , glUniform2fv , glUniformMatrix4fv , .ChromiumCompositor
+glUseProgram , glUniform1iv , glUniform4fv , glUniform2fv , glUniformMatrix4fv , ChromiumCompositor
 
 chromium OS 77 длиною в создание OS , testing compile OS12  based 16.04 chromium browser v77 download x64 amd64-generic , дистрибутив упоминание о котором удаляются во всех комментариях на территории России что бы украсть первичность создания все сайты подвергаются мощной цензуре в политической стратегии ит индустрии хотя эта самая серьезная операционная система из за сверх быстрого старта , даже андроид так быстро не загружается chrome://discards/graph
 
@@ -19,7 +19,7 @@ Chromium OS77 download information: https://github.com/Griggorii/Chromium_OS_77/
                                08.13.2021 : Best Cinematic film test 1080 | check chrome://gpu/
                        
                          
-                   Исследование качества графического отображения chromium/chrome/brave/opera/polemoon и другие хромиумо подобные инвестиционная помощь может отправляться на Griggorii@gmail.com .28.08.2022 Подводим итоги исследовании что всё зависит от определенной версии mesa и собранной определенным компилятором именно на ubuntu 20.04 это должен быть gcc-9.30 и линковка на данный момент лучший вариант llvm-12 , а точнее его библиотеку libLLVM-12.so.1 и символический dev линк на эту библиотеку libLLVM-12.so . Самое интересное если слинковать с libllvm-10 то скорость и производительность полученной mesa будет значительно хуже. Какие либо другие свои знания я не могу распространять для того что бы у меня не появилась конкуренция которая просто скопирует мои флаги и флаги не известные науке на определенные свойства компиляторов.
+                   Исследование качества графического отображения chromium/chrome/brave/opera/polemoon и другие хромиумо подобные инвестиционная помощь может отправляться на Griggorii@gmail.com .28.08.2022 Подводим итоги исследовании что всё зависит от определенной версии mesa и собранной определенным компилятором именно на ubuntu 20.04 это должен быть gcc-9.30 и линковка на данный момент лучший вариант llvm-12 , а точнее его библиотеку libLLVM-12.so.1 и символический dev линк на эту библиотеку libLLVM-12.so . Самое интересное если слинковать с libllvm-10 то скорость и производительность полученной mesa будет значительно хуже. Какие либо другие свои знания я не могу распространять для того что бы у меня не появилась конкуренция которая просто скопирует мои флаги и флаги не известные науке на определенные свойства компиляторов мои лицензионные соглашения озвучены тут https://github.com/Griggorii/Xorg_1.28-Mesa_21.2.6_Ubuntu_20.04/releases/tag/libmesa_dri
                          
       Local State_color_good_X11 copy to paste Local State copy to paste ~/.config/chromium/Local State: https://github.com/Griggorii/Chromium_OS_77/blob/master/test_flags/minumum/my_stable_favorite_stable/Local%20State_color_good_X11
       
