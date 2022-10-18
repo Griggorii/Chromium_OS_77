@@ -1,6 +1,6 @@
 # Chromium_OS_77
 
-glUseProgram , glUniform1iv , glUniform4fv , glUniform2fv , glUniformMatrix4fv , ChromiumCompositor
+glUseProgram , glUniform1iv , glUniform4fv , glUniform2fv , glUniformMatrix4fv , ChromiumCompositor , chrome://interstitials/
 
 chromium OS 77 длиною в создание OS , testing compile OS12  based 16.04 chromium browser v77 download x64 amd64-generic , дистрибутив упоминание о котором удаляются во всех комментариях на территории России что бы украсть первичность создания все сайты подвергаются мощной цензуре в политической стратегии ит индустрии хотя эта самая серьезная операционная система из за сверх быстрого старта , даже андроид так быстро не загружается chrome://discards/graph
 
