@@ -212,13 +212,6 @@ lsof | grep IP
 ---
 
 <!doctype html>
-<!-- Copyright 2019 The Chromium Authors. All rights reserved.
-     Use of this source code is governed by a BSD-style license that can be
-     found in the LICENSE file. -->
-<html>
-  <head>
-    <!-- Set the title to an empty value, which will be replaced by a localized
-         name by JavaScript -->
     <title>&#xfeff;</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="../css/main.css">
