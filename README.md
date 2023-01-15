@@ -17,8 +17,8 @@ Chromium OS77 download information: https://github.com/Griggorii/Chromium_OS_77/
   Install Chromium 87.0.4280.88 browser anti snap: https://github.com/Griggorii/chromium_brave_chrome_profile_linux/releases/tag/chromium-browser
                          
                                08.13.2021 : Best Cinematic film test 1080 | check chrome://gpu/
-                       
-                         
+                      
+                                               
                    Исследование качества графического отображения chromium/chrome/brave/opera/polemoon и другие хромиумо подобные инвестиционная помощь может отправляться на Griggorii@gmail.com .28.08.2022 Подводим итоги исследовании что всё зависит от определенной версии mesa и собранной определенным компилятором именно на ubuntu 20.04 это должен быть gcc-9.30 и линковка на данный момент лучший вариант llvm-12 , а точнее его библиотеку libLLVM-12.so.1 и символический dev линк на эту библиотеку libLLVM-12.so . Самое интересное если слинковать с libllvm-10 то скорость и производительность полученной mesa будет значительно хуже. Какие либо другие свои знания я не могу распространять для того что бы у меня не появилась конкуренция которая просто скопирует мои флаги и флаги не известные науке на определенные свойства компиляторов мои лицензионные соглашения описаны тут https://github.com/Griggorii/Xorg_1.28-Mesa_21.2.6_Ubuntu_20.04/releases/tag/libmesa_dri
                          
       Local State_color_good_X11 copy to paste Local State copy to paste ~/.config/chromium/Local State: https://github.com/Griggorii/Chromium_OS_77/blob/master/test_flags/minumum/my_stable_favorite_stable/Local%20State_color_good_X11
@@ -210,6 +210,12 @@ lsof | grep UDP
 lsof | grep IP
 
 ---
+
+<p align="center">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACjElEQVRoge2av2vbQBhAX2RrsMAa4iEmyWAPGqxBht5gD1eIh/wFGTp1KRRCs4euIUvJ1s176dCxLXTpYogGG6JAPDiDh2RIQjOogw3JIB/tYA+lbdIfPnEx6C0S4rjve3ffnZC4JYDt7e21XC53AGwAqzxsroCOUmq33W5fLs2SPwFKpjP7R2KlVN2ajfyiJQ9QyuVyBxbTsllUNiwefs3fx6plOoN5yQRMkwmYJhMwTSZgmkzANPn0ui7w6Pkez+oOxIe83n/HcKI/SnozsCJp+c70viTYFMVUwqQkkMfbkFRtSJIEcPBaLdZSiJSOQFGwKUpATPfNJ84SsNebtGr6KzYVgRUh8RxILkI6x13C4Q3gErQEugspBYEKUlaxSTgPu1wzJgpPGQGOJxHLeqNpF8jXJKIM3Aw4jMYATAYhJzFgV5EtvStBs0CBQAa4wOi0R/929ngyJOx/AaActPA0LgW9AkVB03eAEYPugB+3/cuwxwVAyUf6+gy0CiyLBp4NxCf0fn5rXUd0zxLApdYIKGiKqXEy15DNKjZAoc6Tl94vLWx3enX8x4jiMeF4/qj6BCpNgvXZveNSdty729oVGmKZsPN17rCaBPJ4jYAywMV79l995vq37Qo0Xuzx1HeoNiUrnQ93tPt79KyBvEejXgISzqL+PUnd0u8OuQFYD5AadlQtAnm/ie8CyTlRdP+Y3vZ7nI4AygSyMncJaBAoEDRquEAyjIj+VNaTAd3BCICSL6nOabC0s7Pzbb4uzLLwX2SZgGkyAdNkAqbJBEyTCZjGYnr2YFG5soCO6SzmoGMppXaB2HQm/0GslNrNHR0djYUQby3LKjM99JHOb2R9XAEflVJb7Xb78juTpqwIBLGIUgAAAABJRU5ErkJggg==" alt="Autor-Patent_Generation_Griggorii.png">
+            </div>
+  </p>
+</p>
 
 <!doctype html>
     <title>&#xfeff;</title>
