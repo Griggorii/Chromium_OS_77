@@ -1,7 +1,7 @@
 # Chromium_OS_77
 chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 amd64-generic gui которым обтянули весь интернет
 
-Chromium OS download : http://yadi.sk/d/YDo9_JoDwIb4WQ effect gnome 40 copyright guest session run: Press F5 keyboard ← ↑ → ↓ press double win (super) top right corner sub menu variantes citrl alt shift search
+Chromium OS_77 download : http://yadi.sk/d/YDo9_JoDwIb4WQ effect gnome 40 copyright guest session run: Press F5 keyboard ← ↑ → ↓ press double win (super) top right corner sub menu variantes citrl alt shift search
 
 Причина не входа в аккуант банальна и скоро мировое сообщество будет разбираться https://www.vedomosti.ru/business/news/2020/08/13/836602-spch-google-otkazalas-priznat-rossiiskuyu-dochku-svoim-predstavitelstvom , для стран не вошедших в ит сговор у меня до сих пор сохранен образ операционной системы linux на которой я собрал данный chromium os 77 раз он так сильно заинтересовал ООО "Гугл" который хочет пользоваться этими технологиями и созданными объектами от родительских смежных объектов.
 
@@ -113,7 +113,22 @@ STATE в linux как переделать https://4pda.ru/forum/index.php?showt
 
 Как сделать скриншоты Ctrl + F5 и Ctrl + Shift + F5
 
+____________________________________________________________________________________________________________
+Linux Minimus size 11 Gb Гб удалить сначала раздел с флешки ( опасно пропадут все фаилы ) допустим в программе gnome-disk и флешка должна быть в итоге без фаиловой системы вообще если оставить же fs допустим ntfs на флешке то вы при записи получите не читаемый раздел unknown именно по этому флешка должна быть без любой фаиловой системы
+
+Посмотрите через ту же программу допустим gnome-disk где вы удалили раздел что бы не ошибится и не записать куда нибудь в биос системы какой у вас of=/dev/??? этой флешки
+
+Check of=/dev/sdb of=/dev/sdb1 of=/dev/sdb2 of=/dev/sdb3 and of=/dev/sdc .....
+
+Запись на флешку в этом варианте моя флешка как будто находится на of=/dev/sdb
+
+$ sudo dd if=chromiumos_base_image.bin of=/dev/sdb bs=4M status=progress
+__________________________________________________________________________________________________
+
+Windows
+
 Minimus size 11 Gb Гб HDDRawCopy source bin in target flash usb установка производимая с помощью программы HDDRawCopy и её аналогов стирает всю флешку или диск так что имейте ввиду что перед процедурой вы вооружены этим знание и стоит найти пустую флешку либо диск. При подключению к другому оборудованию всё стирается и восстанавливается после из облачного хранения вместе с вашими расширениями для браузера , сделано это для защиты ваших данных от угона если вы флешку потеряете то в ваш акк не сможет попасть.
+____________________________________________________________________________________________________________
 
 Теперь может просматривать в проводнике и ext разделы хотя ранее умел видеть только ntfs fat можно посмотреть теперь свои фаилы на томе где у вас линукс установлен
 
