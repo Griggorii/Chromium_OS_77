@@ -1,4 +1,4 @@
-# Chromium_OS_77
+# Chromium_OS_77 #libc-2.27 #glibc-2.27
 chromium OS testing compile OS12  based 16.04 chromium browser v77 download x64 amd64-generic gui которым обтянули весь интернет
 
 Chromium OS_77 download : http://yadi.sk/d/YDo9_JoDwIb4WQ effect gnome 40 copyright guest session run: Press F5 keyboard ← ↑ → ↓ press double win (super) top right corner sub menu variantes citrl alt shift search
