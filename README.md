@@ -1,4 +1,4 @@
-# Chromium_OS_77
+# Chromium_OS_77 #libc-2.27 #glibc-2.27
 
 glUseProgram , glUniform1iv , glUniform4fv , glUniform2fv , glUniformMatrix4fv , ChromiumCompositor , chrome://interstitials/ , chrome://new-tab-page
 
